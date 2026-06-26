@@ -293,7 +293,7 @@ If you use IDOL-F in your research, please cite:
   title     = {IDOL-F: A Syntactic and Graph-Structured Framework for Offensive Language Detection with Conformal Uncertainty Estimation},
   author    = {[Author Names]},
   journal   = {[Journal Name]},
-  year      = {2025},
+  year      = {2026},
   url       = {[URL]}
 }
 ```
